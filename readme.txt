@@ -10,5 +10,3 @@ step 4 : Now grab a paper and draw a circle on it. Take a random point on it and
 step 5 : Now sequentially join all the remainders from the remainder sequence. Trace a line from each consequtative remainder and after finishing that you will see a star formed by tracing all remainders.
 step 6 : We can change the dividing integer number to get different pattern. Simply change integer in the program and repeat all the steps above, you can see a different pattern for every integer.
 
-Short Description :
-In this cpp program, we will print fibonacci sequence in specific interval 
